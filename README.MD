@@ -16,7 +16,9 @@ To run you need to have MongoDB installed and running on your machine. Don't hav
 Once you have your MongoDB service running you can simply do:
 
 ```git clone https://github.com/Riccardo9190/todo-list-node.git```
+
 ```cd todo-list-node```
+
 ```npm install && npm run dev```
 
 
