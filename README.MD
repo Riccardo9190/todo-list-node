@@ -25,4 +25,4 @@ Once you have your MongoDB service running you can simply do:
 ### Live version
 
 You can check the live version here: 
-<a href="https://prjct-todo-list-node.herokuapp.com/" target="_blank">https://prjct-todo-list-node.herokuapp.com/</a>
+<a href="https://prjct-todo-list-node.herokuapp.com/" target="_blank" style="text-decoration:none">https://prjct-todo-list-node.herokuapp.com/</a>
