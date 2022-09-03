@@ -1,3 +1,6 @@
+require('dotenv').config();
+require('./config/database');
+
 const express = require('express'); 
 const path = require('path'); 
 
@@ -6,8 +9,6 @@ const taskRouter = require('./src/routes/task')
 
 const rootRouter = require('./src/routes/index'); 
 const methodOverride = require('method-override'); 
-
-require('./config/database'); // database config
 
 const app = express(); 
 app.use(express.json()); 
@@ -25,8 +26,10 @@ app.use('/checklists', checkListRouter);
 app.use('/checklists', taskRouter.checklistDependent); 
 app.use('/tasks', taskRouter.simple); 
 
-app.listen(3000, () => {
+const PORT = process.env.PORT || 3000;
+
+app.listen(PORT, () => {
   console.log('Servidor foi iniciado')
 });
 
-
+module.exports = app;
