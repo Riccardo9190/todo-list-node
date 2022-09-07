@@ -22,6 +22,3 @@ Once you have your MongoDB service running you can simply do:
 ```npm install && npm run dev```
 
 
-### Live version
-
-You can check the live version here: https://prjct-todo-list-node.herokuapp.com/
