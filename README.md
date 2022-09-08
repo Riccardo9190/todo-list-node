@@ -29,7 +29,7 @@ Once you have your MongoDB service running you can do the following steps:
 
 - Run your app with ```npm run dev``` and open the URL ```localhost:5000```
 
-### Live version
+### Live Version
 
 You can check the live version here: https://prjct-todo-list-node.herokuapp.com/
 
