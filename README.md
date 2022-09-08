@@ -32,3 +32,67 @@ Once you have your MongoDB service running you can simply do:
 ### Live version
 
 You can check the live version here: https://prjct-todo-list-node.herokuapp.com/
+
+<hr/>
+
+## Project Images
+
+### Desktop
+
+#### - Home screen
+<img src="https://github.com/Riccardo9190/todo-list-node/blob/master/project_images/desktop/home_desktop.png" /> 
+
+<hr/>
+
+#### - Checklists screen
+<img src="https://github.com/Riccardo9190/todo-list-node/blob/master/project_images/desktop/checklists_desktop.png" />ㅤ
+
+<hr/>
+
+<hr/>
+
+#### - Checklist screen
+<img src="https://github.com/Riccardo9190/todo-list-node/blob/master/project_images/desktop/checklist_desktop.png" />ㅤ
+
+<hr/>
+
+<hr/>
+
+#### - Edit checklist screen
+<img src="https://github.com/Riccardo9190/todo-list-node/blob/master/project_images/desktop/edit_desktop.png" />ㅤ
+
+<hr/>
+
+<hr/>
+
+#### - New checklist screen
+<img src="https://github.com/Riccardo9190/todo-list-node/blob/master/project_images/desktop/new_checklist_desktop.png" />ㅤ
+
+<hr/>
+
+### Mobile
+
+#### - Home screen
+<img src="https://github.com/Riccardo9190/todo-list-node/blob/master/project_images/mobile/home_mobile.png" /> 
+
+<hr/>
+
+#### - Checklists screen
+<img src="https://github.com/Riccardo9190/todo-list-node/blob/master/project_images/mobile/checklists_mobile.png" />ㅤ
+
+<hr/>
+
+#### - Checklist screen
+<img src="https://github.com/Riccardo9190/todo-list-node/blob/master/project_images/mobile/checklist_mobile.png" />ㅤ
+
+<hr/>
+
+#### - Edit checklist screen
+<img src="https://github.com/Riccardo9190/todo-list-node/blob/master/project_images/mobile/edit_mobile.png" />ㅤ
+
+<hr/>
+
+#### - New checklist screen
+<img src="https://github.com/Riccardo9190/todo-list-node/blob/master/project_images/mobile/new_checklist_mobile.png" />ㅤ
+
+<hr/>
