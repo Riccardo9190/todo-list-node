@@ -27,7 +27,7 @@ Once you have your MongoDB service running you can simply do:
 
 ㅤㅤExample: ```echo "MONGO_URL=mongodb://localhost/todolistclone" > .env```
 
-- Run your app with ```npm run dev```
+- Run your app with ```npm run dev``` and open the URL ```localhost:5000```
 
 ### Live version
 
