@@ -23,7 +23,9 @@ Once you have your MongoDB service running you can do the following steps:
 
 - Create a file named '.env' on the root of the project with ```touch .env```
 
-- Set the environment variable for the database with ```echo "MONGO_URL=mongodb://localhost/databasename" > .env```
+- Set the environment variable for the database with 
+
+  ```echo "MONGO_URL=mongodb://localhost/databasename" > .env```
 
 ㅤㅤExample: ```echo "MONGO_URL=mongodb://localhost/todolistclone" > .env```
 
