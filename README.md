@@ -33,7 +33,9 @@ Once you have your MongoDB service running you can do the following steps:
 
 ### Live Version
 
-You can check the live version here: https://prjct-todo-list-node.herokuapp.com/
+~~You can check the live version here: https://prjct-todo-list-node.herokuapp.com/~~
+
+Update: Heroku server disabled.
 
 <hr/>
 
