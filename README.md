@@ -1,6 +1,6 @@
-# Node.js TODO-List App
+# Node.js TO-DO-List App
 
-Responsive todo-list application built with Node.js, EJS, Express and MongoDB.
+Responsive to-do-list application built with Node.js, EJS, Express and MongoDB.
 
 ### Technologies Used:
 
