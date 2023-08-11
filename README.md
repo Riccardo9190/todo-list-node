@@ -1,6 +1,6 @@
 # Node.js TODO-List App
 
-Simple todo-list application built with Node.js, Express and MongoDB.
+Responsive todo-list application built with Node.js, EJS, Express and MongoDB.
 
 ### Technologies Used:
 
@@ -12,7 +12,7 @@ Simple todo-list application built with Node.js, Express and MongoDB.
 
 ### To Run Locally
 
-To run locally you need to have MongoDB installed and running on your machine. Don't have it? Get it [here](https://docs.mongodb.com/manual/installation/).
+To run locally you need to have [MongoDB](https://docs.mongodb.com/manual/installation/) installed and running on your machine.
 Once you have your MongoDB service running you can do the following steps:
 
 - Clone this repository with ```git clone https://github.com/Riccardo9190/todo-list-node.git```
@@ -21,13 +21,11 @@ Once you have your MongoDB service running you can do the following steps:
 
 - Install all dependencies with ```npm install```
 
-- Create a file named '.env' on the root of the project with ```touch .env```
+- Set the environment variable for the database with:
 
-- Set the environment variable for the database with: 
-
-  ```echo "MONGO_URL=mongodb://localhost/databasename" > .env```
-
-ㅤㅤExample: ```echo "MONGO_URL=mongodb://localhost/todolistclone" > .env```
+```shell
+echo "MONGO_URL=mongodb://localhost/your_databasename" > .env
+```
 
 - Run the app with ```npm run dev``` and open the URL ```localhost:5000```
 
