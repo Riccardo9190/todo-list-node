@@ -8,7 +8,6 @@ Responsive to-do-list application built with Node.js, EJS, Express and MongoDB.
 - Express
 - EJS
 - MongoDB
-- Mongoose
 
 ### To Run Locally
 
